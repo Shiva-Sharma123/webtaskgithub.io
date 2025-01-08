@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: sans-serif;
+}
+.main_container{
+    height: 100%;
+    width: 100%;
+}
+.navbar{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 5px 0 rgba(0, 0, 0, .23);
+}
+.anchor_tag a{
+    font-size: 0.75rem;
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    padding: 4px;
+}
+
+
