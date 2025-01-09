@@ -25,4 +25,9 @@
         text-align: center;
     }
   }
-
+ 
+  @media only screen and (max-width: 768px) {
+    .Full_img{
+        height: 40px;
+      }
+  }
