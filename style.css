@@ -31,3 +31,8 @@
         height: 40px;
       }
   }
+  @media only screen and (max-width: 768px) {
+    .hero_btn{
+        justify-content: center;
+    }
+  }
